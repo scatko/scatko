@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Andrej Scatko -- personal website"
+theme = "cupper-hugo-theme"
