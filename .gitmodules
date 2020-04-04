@@ -3,4 +3,4 @@
 	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
 [submodule "public"]
 	path = public
-	url = git@github.com:scatko/scatko.git
+	url = https://github.com/scatko/scatko.github.io.git
