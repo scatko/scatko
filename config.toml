@@ -2,3 +2,17 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Andrej Scatko -- personal website"
 theme = "cupper-hugo-theme"
+
+[menu]
+
+  [[menu.nav]]
+    indentifier = "Home"
+    name = "home"
+    url = "/"
+    weight = 1
+
+  [[menu.nav]]
+    indentifier = "about"
+    name = "about"
+    url = "/about"
+    weight = 2
