@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2020-04-04T16:52:46+03:00
-draft: true
+date: 2020-04-04T18:15:01+03:00
+draft: false
 ---
 
-Hi there! You are on my page. Welcome :)
+Hello! You are on my website :)
